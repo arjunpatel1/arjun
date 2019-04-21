@@ -1,0 +1,58 @@
+@media only screen and (max-width: 768px) {
+    .res_about{
+        border-top: 6px solid #f4f4f4;
+        padding-top: 10px;
+    }
+    .new_service_div h1
+    {
+        font-size: 16px;
+    }
+}
+@media only screen and (max-width: 910px) {
+    .ser_res
+    {
+        display: inline-table;
+        position: relative;
+        width: 63%;
+        margin-left: -15px;
+    }
+    .ser_height
+    {
+        padding-top: 30pc;
+    }
+}
+@media only screen and (max-width: 725px){
+    .ser_height
+    {
+        padding-top: 37pc;
+    }
+}
+@media only screen and (max-width: 490px)
+{
+    .ser_height
+    {
+        padding-top: 59pc;
+    }
+    .button--nanuk
+    {
+        padding: 0 3em;
+    }
+}
+@media only screen and (max-width: 979px)
+{   #path3
+    {
+        fill:#333333;
+    }
+    .navbar-inner
+    {
+        background: white;
+    }
+    .navbar .nav > li > a
+    {
+        color: #333333;
+    }
+    .contact_h1
+    {
+        font-size: 20px;
+    }
+}
